@@ -1,0 +1,8 @@
+/target
+/.idea
+/MyReminder/HELP.md
+/MyReminder/target
+/MyReminder/src/test
+/MyReminder/src/main/resources
+/MyReminder/mvnw
+/MyReminder/mvnw.cmd
